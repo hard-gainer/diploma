@@ -40,7 +40,7 @@
         <mxCell id="cbkUk82IDQME-z0V9-cf-50" value="Назначить задачу на группу исполнителей" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="420" y="230" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cbkUk82IDQME-z0V9-cf-52" value="При редактировании:&amp;nbsp;&lt;div&gt;Можно изменить плановый срок выполнения задачи, ее название, описание, исполнителя.&lt;/div&gt;" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cbkUk82IDQME-z0V9-cf-52" value="При редактировании:&amp;nbsp;&lt;div&gt;Можно изменить плановый срок выполнения задачи, ее название, описание.&lt;/div&gt;" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1185" y="305" width="185" height="100" as="geometry" />
         </mxCell>
         <mxCell id="cbkUk82IDQME-z0V9-cf-54" value="Обязательно при создании: Устанавливается плановый срок выполнения задачи, имя, описание." style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
