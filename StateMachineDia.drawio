@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4">
   <diagram name="Страница — 1" id="W-Us1DtaynbtMstBT9SI">
-    <mxGraphModel dx="1401" dy="1478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1646" dy="1610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,6 +12,12 @@
         </mxCell>
         <mxCell id="cbkUk82IDQME-z0V9-cf-22" value="Сотрудник" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-100" y="195" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cbkUk82IDQME-z0V9-cf-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cbkUk82IDQME-z0V9-cf-40" target="cbkUk82IDQME-z0V9-cf-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cbkUk82IDQME-z0V9-cf-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cbkUk82IDQME-z0V9-cf-40" target="cbkUk82IDQME-z0V9-cf-50">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cbkUk82IDQME-z0V9-cf-40" value="" style="ellipse;fillColor=strokeColor;html=1;" vertex="1" parent="1">
           <mxGeometry x="790" y="70" width="20" height="20" as="geometry" />
@@ -119,24 +125,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="770" y="260" as="sourcePoint" />
             <mxPoint x="820" y="210" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cbkUk82IDQME-z0V9-cf-97" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="cbkUk82IDQME-z0V9-cf-50" target="cbkUk82IDQME-z0V9-cf-40">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="450" y="80" as="sourcePoint" />
-            <mxPoint x="720" y="60" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="495" y="80" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cbkUk82IDQME-z0V9-cf-98" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="cbkUk82IDQME-z0V9-cf-48" target="cbkUk82IDQME-z0V9-cf-40">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="640" y="160" as="sourcePoint" />
-            <mxPoint x="690" y="110" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="665" y="80" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="cbkUk82IDQME-z0V9-cf-100" value="Если появляется необходимость срочно переключиться на более приоритетную задачу, не закончив выполнение текущей, то сотрудник должен вернуть задачу(при этом таймер не обнуляется) и потом взять ее снова, когда поступит команда от менеджера.&amp;nbsp;" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
