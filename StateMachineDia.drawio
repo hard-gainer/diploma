@@ -1,9 +1,72 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4">
   <diagram name="Страница — 1" id="W-Us1DtaynbtMstBT9SI">
-    <mxGraphModel>
+    <mxGraphModel dx="819" dy="1610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="cbkUk82IDQME-z0V9-cf-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cbkUk82IDQME-z0V9-cf-2" target="cbkUk82IDQME-z0V9-cf-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cbkUk82IDQME-z0V9-cf-2" value="" style="ellipse;fillColor=strokeColor;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="80" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cbkUk82IDQME-z0V9-cf-22" value="Сотрудник" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="160" y="30" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cbkUk82IDQME-z0V9-cf-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cbkUk82IDQME-z0V9-cf-40" target="cbkUk82IDQME-z0V9-cf-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cbkUk82IDQME-z0V9-cf-40" value="" style="ellipse;fillColor=strokeColor;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="80" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cbkUk82IDQME-z0V9-cf-41" value="Менеджер" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="760" y="30" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cbkUk82IDQME-z0V9-cf-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cbkUk82IDQME-z0V9-cf-42" target="cbkUk82IDQME-z0V9-cf-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cbkUk82IDQME-z0V9-cf-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cbkUk82IDQME-z0V9-cf-42" target="cbkUk82IDQME-z0V9-cf-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cbkUk82IDQME-z0V9-cf-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cbkUk82IDQME-z0V9-cf-42" target="cbkUk82IDQME-z0V9-cf-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cbkUk82IDQME-z0V9-cf-42" value="Создать задачу" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="750" y="130" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cbkUk82IDQME-z0V9-cf-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cbkUk82IDQME-z0V9-cf-43" target="cbkUk82IDQME-z0V9-cf-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cbkUk82IDQME-z0V9-cf-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cbkUk82IDQME-z0V9-cf-43" target="cbkUk82IDQME-z0V9-cf-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cbkUk82IDQME-z0V9-cf-43" value="Пользователь" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="364" y="-40" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cbkUk82IDQME-z0V9-cf-46" value="Отредактировать задачу" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="750" y="210" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cbkUk82IDQME-z0V9-cf-48" value="Назначить исполнителя по задаче" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="550" y="125" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cbkUk82IDQME-z0V9-cf-50" value="Назначить задачу на группу исполнителей" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="890" y="125" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cbkUk82IDQME-z0V9-cf-52" value="При редактировании:&amp;nbsp;&lt;div&gt;Можно изменить плановый срок выполнения задачи, ее название, описание, исполнителя.&lt;/div&gt;" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="210" width="185" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="cbkUk82IDQME-z0V9-cf-54" value="Обязательно при создании: Устанавливается плановый срок выполнения задачи, имя, описание." style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="50" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="cbkUk82IDQME-z0V9-cf-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cbkUk82IDQME-z0V9-cf-56" target="cbkUk82IDQME-z0V9-cf-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cbkUk82IDQME-z0V9-cf-56" value="Принять в исполнение задачу" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="120" y="150" width="160" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="cbkUk82IDQME-z0V9-cf-57" value="Остановить таймер" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="120" y="237.5" width="160" height="45" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
