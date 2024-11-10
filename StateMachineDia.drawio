@@ -43,15 +43,19 @@
         <mxCell id="cbkUk82IDQME-z0V9-cf-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cbkUk82IDQME-z0V9-cf-48" target="cbkUk82IDQME-z0V9-cf-101">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="660" y="350" />
+              <mxPoint x="660" y="445" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="cbkUk82IDQME-z0V9-cf-48" value="Назначить исполнителя по задаче" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="590" y="230" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cbkUk82IDQME-z0V9-cf-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cbkUk82IDQME-z0V9-cf-50" target="cbkUk82IDQME-z0V9-cf-101">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="cbkUk82IDQME-z0V9-cf-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cbkUk82IDQME-z0V9-cf-50" target="cbkUk82IDQME-z0V9-cf-101">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="495" y="445" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="cbkUk82IDQME-z0V9-cf-50" value="Назначить задачу на группу исполнителей" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="420" y="230" width="150" height="40" as="geometry" />
@@ -131,7 +135,7 @@
           <mxGeometry x="140" y="430" width="240" height="155" as="geometry" />
         </mxCell>
         <mxCell id="cbkUk82IDQME-z0V9-cf-101" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
-          <mxGeometry x="485" y="340" width="20" height="20" as="geometry" />
+          <mxGeometry x="790" y="435" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
