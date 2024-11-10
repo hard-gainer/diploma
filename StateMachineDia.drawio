@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4">
   <diagram name="Страница — 1" id="W-Us1DtaynbtMstBT9SI">
-    <mxGraphModel dx="1816" dy="1701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1646" dy="1610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,12 +12,6 @@
         </mxCell>
         <mxCell id="cbkUk82IDQME-z0V9-cf-22" value="Сотрудник" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-100" y="195" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="cbkUk82IDQME-z0V9-cf-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cbkUk82IDQME-z0V9-cf-40" target="cbkUk82IDQME-z0V9-cf-50">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="cbkUk82IDQME-z0V9-cf-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cbkUk82IDQME-z0V9-cf-40" target="cbkUk82IDQME-z0V9-cf-48">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cbkUk82IDQME-z0V9-cf-40" value="" style="ellipse;fillColor=strokeColor;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="80" width="20" height="20" as="geometry" />
@@ -44,7 +38,7 @@
           <mxGeometry x="540" y="240" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cbkUk82IDQME-z0V9-cf-50" value="Назначить задачу на группу исполнителей" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="360" y="240" width="150" height="40" as="geometry" />
+          <mxGeometry x="370" y="240" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cbkUk82IDQME-z0V9-cf-52" value="При редактировании:&amp;nbsp;&lt;div&gt;Можно изменить плановый срок выполнения задачи, ее название, описание, исполнителя.&lt;/div&gt;" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1220" y="205" width="185" height="100" as="geometry" />
@@ -115,6 +109,24 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="720" y="270" as="sourcePoint" />
             <mxPoint x="770" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cbkUk82IDQME-z0V9-cf-97" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="cbkUk82IDQME-z0V9-cf-50" target="cbkUk82IDQME-z0V9-cf-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="90" as="sourcePoint" />
+            <mxPoint x="670" y="70" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="445" y="90" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cbkUk82IDQME-z0V9-cf-98" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="cbkUk82IDQME-z0V9-cf-48" target="cbkUk82IDQME-z0V9-cf-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="170" as="sourcePoint" />
+            <mxPoint x="640" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="615" y="90" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
