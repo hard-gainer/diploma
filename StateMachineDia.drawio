@@ -31,6 +31,9 @@
         <mxCell id="cbkUk82IDQME-z0V9-cf-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cbkUk82IDQME-z0V9-cf-42" target="cbkUk82IDQME-z0V9-cf-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="cbkUk82IDQME-z0V9-cf-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cbkUk82IDQME-z0V9-cf-42" target="cbkUk82IDQME-z0V9-cf-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cbkUk82IDQME-z0V9-cf-42" value="Создать задачу" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="750" y="130" width="100" height="30" as="geometry" />
         </mxCell>
@@ -42,6 +45,17 @@
         </mxCell>
         <mxCell id="cbkUk82IDQME-z0V9-cf-43" value="Пользователь" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="364" y="-40" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cbkUk82IDQME-z0V9-cf-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cbkUk82IDQME-z0V9-cf-46" target="cbkUk82IDQME-z0V9-cf-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cbkUk82IDQME-z0V9-cf-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cbkUk82IDQME-z0V9-cf-46" target="cbkUk82IDQME-z0V9-cf-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1060" y="230" />
+              <mxPoint x="1060" y="90" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="cbkUk82IDQME-z0V9-cf-46" value="Отредактировать задачу" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="750" y="210" width="100" height="40" as="geometry" />
@@ -61,17 +75,46 @@
         <mxCell id="cbkUk82IDQME-z0V9-cf-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cbkUk82IDQME-z0V9-cf-56" target="cbkUk82IDQME-z0V9-cf-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="cbkUk82IDQME-z0V9-cf-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cbkUk82IDQME-z0V9-cf-56" target="cbkUk82IDQME-z0V9-cf-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cbkUk82IDQME-z0V9-cf-56" value="Принять в исполнение задачу" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="120" y="150" width="160" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="cbkUk82IDQME-z0V9-cf-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cbkUk82IDQME-z0V9-cf-57" target="cbkUk82IDQME-z0V9-cf-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="267" />
+              <mxPoint x="90" y="90" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="cbkUk82IDQME-z0V9-cf-57" value="&amp;nbsp;Выполнить задачу" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="120" y="237.5" width="160" height="45" as="geometry" />
+          <mxGeometry x="120" y="245" width="160" height="45" as="geometry" />
         </mxCell>
         <mxCell id="cbkUk82IDQME-z0V9-cf-61" value="При принятии в исполнение:&lt;div&gt;Таймер автоматически запускается&lt;/div&gt;" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-160" y="120" width="190" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="cbkUk82IDQME-z0V9-cf-62" value="Под выполнить задачу подразумевается изменение статуса задачи с &quot;In use&quot; на &quot;Completed&quot;" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cbkUk82IDQME-z0V9-cf-62" value="Под выполнить задачу подразумевается изменение статуса задачи с &quot;In use&quot; на &quot;Completed&quot;. Таймер при этом останавливается, системы рассчитывает фактическое время выполнения задачи." style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-170" y="280" width="190" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="cbkUk82IDQME-z0V9-cf-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cbkUk82IDQME-z0V9-cf-63">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1060" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cbkUk82IDQME-z0V9-cf-63" value="Удалить задачу" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="750" y="290" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cbkUk82IDQME-z0V9-cf-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cbkUk82IDQME-z0V9-cf-68" target="cbkUk82IDQME-z0V9-cf-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="90" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cbkUk82IDQME-z0V9-cf-68" value="Вернуть задачу" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="310" y="150" width="160" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
